@@ -7,19 +7,19 @@ ADS: Ulbra - Universidade Luterana do Brasil - Studying/Cursando
 Computer Technician\tecnico de informatica: SENAC/RS - 2018
 
 ### Experiência de trabalho
-** @ interop (_Maio 2023 - Atualmente_) ""
+** @ interop (_Maio 2023 - Atualmente_) **
 - Analista de suporte técnico
 - Atendimento e suporte técnico aos usuários de software instados pela empresa e solucionando os problemas relatados
 
-** @ Volpato (_Junho 2022 - Maio 2023_) ""
+** @ Volpato (_Junho 2022 - Maio 2023_) **
 - Estagio/Analista de suporte técnico
 - Implementação de hardwares e softwares da empresa, além de executar a manutenção de peças e sistemas de informática
 
-** @ Grupo Tecnoset (_abril 2021 - maio 2022_)
+** @ Grupo Tecnoset (_abril 2021 - maio 2022_) **
 - Analista de suporte técnico
 - Implementação de hardwares e softwares da empresa, além de executar a manutenção de peças e sistemas de informática
 
 ### Projects
-** Projetos/Portfólio
+** Projetos/Portfólio **
 
-https://lancellot.github.io/Projeto-OnePiece/
+[projeto One Piece](https://lancellot.github.io/Projeto-OnePiece/)
