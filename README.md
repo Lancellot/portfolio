@@ -21,6 +21,6 @@ Tecnico de informatica: SENAC/RS - 2018
 - Implementação de hardwares e softwares da empresa, além de executar a manutenção de peças e sistemas de informática.
 
 ### Projectos
-**Projetos One Piece**
-[projeto One Piece](https://lancellot.github.io/Projeto-OnePiece/)
+**Projetos One Piece:**
+[clique aqui!!](https://lancellot.github.io/Projeto-OnePiece/)
 ![one pice](/assets/img/onepiece.PNG)
