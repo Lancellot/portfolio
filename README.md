@@ -23,3 +23,4 @@ Computer Technician\tecnico de informatica: SENAC/RS - 2018
 ** Projetos/Portfólio **
 
 [projeto One Piece](https://lancellot.github.io/Projeto-OnePiece/)
+![one pice](/assets/img/one piece.PNG)
