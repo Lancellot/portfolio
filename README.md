@@ -3,7 +3,7 @@ Profissional com formação em TI, cusando ADS, com conhecimento e experiência 
 
 ### Formação
 
-ADS: Ulbra - Universidade Luterana do Brasil - Studying/Cursando
+ADS: Ulbra - Universidade Luterana do Brasil - Cursando
 Computer Technician\tecnico de informatica: SENAC/RS - 2018
 
 ### Experiência de trabalho
