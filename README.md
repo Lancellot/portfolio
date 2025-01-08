@@ -1,9 +1,9 @@
 # Portfólio
-Profissional com formação em TI, cusando ADS, com conhecimento e experiência a 3 ano. perfil dinâmico e proativo, com foco no aprendizado constante eno trabalho em equipe...Atualmente tentando mudar de area para desenvolvimento.
+Profissional com formação em TI, Ciência da Computação , com conhecimento e experiência a 4 ano. perfil dinâmico e proativo, com foco no aprendizado constante eno trabalho em equipe...Atualmente tentando mudar de area para desenvolvimento.
 
 ### Formação
 
-ADS: Ulbra - Universidade Luterana do Brasil - Cursando
+Ciência da Computação: Ulbra - Universidade Luterana do Brasil -
 
 Tecnico de informatica: SENAC/RS - 2018
 
