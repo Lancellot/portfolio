@@ -27,4 +27,4 @@ Tecnico de informatica: SENAC/RS - 2018
 
 **Projetos 2FÁcil:**
 [clique aqui!!](https://lancellot.github.io/2FAcil2.0/).
-![one pice](/assets/img/2Fa.PNG)
+![2fAcil](/assets/img/2Fa.PNG)
